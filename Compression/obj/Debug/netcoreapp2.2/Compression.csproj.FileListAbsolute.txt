@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Compression\Compression\bin\Debug\netcoreapp2.2\Compression.deps.json
+C:\Users\User\source\repos\Compression\Compression\bin\Debug\netcoreapp2.2\Compression.runtimeconfig.json
+C:\Users\User\source\repos\Compression\Compression\bin\Debug\netcoreapp2.2\Compression.runtimeconfig.dev.json
+C:\Users\User\source\repos\Compression\Compression\bin\Debug\netcoreapp2.2\Compression.dll
+C:\Users\User\source\repos\Compression\Compression\bin\Debug\netcoreapp2.2\Compression.pdb
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.AssemblyInfo.cs
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.dll
+C:\Users\User\source\repos\Compression\Compression\obj\Debug\netcoreapp2.2\Compression.pdb
